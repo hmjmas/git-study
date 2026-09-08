@@ -16,4 +16,4 @@ Thumbs.db
 .env.local
 
 # Topology
-git-topology.txt
+git-topology.md
